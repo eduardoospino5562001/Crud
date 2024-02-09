@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const url = "https://users-crud.academlo.tech/swagger/"
 
   return (
    <div>
