@@ -1,4 +1,23 @@
 body{
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
+.title{
+  background-color: #555A88;
+  padding: 9px;
+  width: fit-content;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  color: black;
+  text-align: right;
+  text-decoration: none;
+  display:flexbox;
+  font-size: small;
+  float: right;
+  overflow: hidden;
+  margin-top: 20px;
+  padding-top: 10px;
+  transform: translate(0, -15px);
+}
+
